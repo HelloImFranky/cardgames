@@ -1,6 +1,6 @@
 # cardgames
 
-A new Flutter project.
+IOS/Android Card Games app using http://deckofcardsapi.com and Flutter. Current Games: Crazy 8's & Go Fish
 
 ## Getting Started
 
